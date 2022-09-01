@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e36b1d2b.css",
+    "main.js": "/static/js/main.7001ac29.js",
+    "static/media/Cabin-VariableFont_wdth,wght.ttf": "/static/media/Cabin-VariableFont_wdth,wght.3a81d4faae694f921125.ttf",
+    "static/media/c1.jpg": "/static/media/c1.f255ac4072eeba7c3076.jpg",
+    "index.html": "/index.html",
+    "main.e36b1d2b.css.map": "/static/css/main.e36b1d2b.css.map",
+    "main.7001ac29.js.map": "/static/js/main.7001ac29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e36b1d2b.css",
+    "static/js/main.7001ac29.js"
+  ]
+}
